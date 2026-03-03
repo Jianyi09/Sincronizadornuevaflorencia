@@ -1,9 +1,9 @@
 
-  # Design POS Interface Screens
+  # Interfaz Sincronizador La Nueva Florencia
 
-  This is a code bundle for Design POS Interface Screens. The original project is available at https://www.figma.com/design/6QHNcyRKS0sAPswuMSK2Mp/Design-POS-Interface-Screens.
+Este es un paquete de códigos para diseñar de la interfaz del Sincronizador. El proyecto original esta disponible en https://www.figma.com/design/6QHNcyRKS0sAPswuMSK2Mp/Design-POS-Interface-Screens.
 
-  ## Running the code
+  ## Correr el Codigo
 
   Run `npm i` to install the dependencies.
 
